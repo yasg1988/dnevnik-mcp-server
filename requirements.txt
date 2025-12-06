@@ -1,0 +1,3 @@
+mcp>=1.0.0
+pydnevnikruapi>=0.1.0
+aiohttp>=3.8.0
